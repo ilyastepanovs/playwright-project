@@ -1,0 +1,26 @@
+{
+  "name": "playwright-project",
+  "version": "1.0.0",
+  "description": "Web-Site-Testing",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ilyastepanovs/playwright-project.git"
+  },
+  "author": "Ilya Stepanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilyastepanovs/playwright-project/issues"
+  },
+  "homepage": "https://github.com/ilyastepanovs/playwright-project#readme",
+  "dependencies": {
+    "playwright": "^1.41.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
